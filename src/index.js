@@ -7,6 +7,7 @@ function App() {
   return (
     <div className="Intern Project">
       <h1>Club Name:</h1>
+      <input id="clubName" />
       <h2>Start editing to see some magic happen!</h2>
     </div>
   );
